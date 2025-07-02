@@ -6,9 +6,10 @@
 - [Tools Used](#tools-used)
 - [Data Cleaning](#data-cleaning)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Key Insights](#key-insights)
 - [Data visualizations](#data-visualizations)
-- [Results](#results)
 - [Recommendations](#recommendations)
+- [How to Use](#how-to-use)
 
 ## **Project Overview**
 This project provides actionable insights from a retail sales dataset obtained from Kaggle. The dataset includes detailed records on product sales, profitability, customer segments, and regional trends. The main objective is to identify key sales patterns and recommend strategies to optimize revenue and profit.
@@ -39,5 +40,45 @@ Retail businesses need to understand which products sell best, where sales are h
 - Identified relationships between discount rates and profit margins.
 - Segmented data to reveal high-revenue customer groups.
 
-🔑 Key Insights
+## **Key Insights**
+**Best-Selling Products:**
+- Technology is the top category (37% of total sales), followed by Furniture (32%) and Office Supplies (31%).
+- Phones generated the highest revenue at $330,000.
 
+**Profitability:**
+- Copiers are the most profitable item, earning $55,618 profit with a 32% margin.
+- Tables and Bookcases show profit losses due to excessive discounts.
+
+**Regional Trends:**
+- West region contributes 32% of total sales.
+- South region has the lowest sales — highlighting growth potential.
+
+**Discounts Impact:**
+- Discounts above 17% lead to negative profit margins.
+
+**Customer Segments:**
+- Consumers segment accounts for 50% of total revenue.
+
+## **Dashboard and Data Visualization**
+The final interactive dashboard was created in Microsoft Excel using charts, slicers, and pivot charts. Below is a snapshot of the dashboard:
+
+
+## **Recommendations**
+**Maximize Best-Selling Categories & Regions:**
+- Boost stock and promotions for Phones and Copiers.
+- Expand marketing in the West region.
+
+**Address Low Performance:**
+- Adjust pricing strategies for Tables and Bookcases.
+- Launch targeted campaigns in the South region.
+
+**Optimize Discounts:**
+- Limit discounts above 17% to safeguard profits.
+
+**Engage High-Value Customers:**
+- Introduce personalized offers and loyalty programs for the Consumers segment.
+
+## **How to Use**
+- Download the dataset (or access it via Kaggle) in /data.
+- Open /dashboard/ to interact with the visual dashboard and charts.
+- Review insights and recommendations in this README.
