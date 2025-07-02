@@ -62,6 +62,8 @@ Retail businesses need to understand which products sell best, where sales are h
 ## **Dashboard and Data Visualization**
 The final interactive dashboard was created in Microsoft Excel using charts, slicers, and pivot charts. Below is a snapshot of the dashboard:
 
+![Page 1](./dashboard/sales.png)
+![Page 1](./dashboard/profit.png)
 
 ## **Recommendations**
 **Maximize Best-Selling Categories & Regions:**
