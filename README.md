@@ -7,7 +7,7 @@
 - [Data Cleaning](#data-cleaning)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Key Insights](#key-insights)
-- [Data visualizations](#data-visualizations)
+- [Dashboard and Data Visualization](#dashboard-and-data-visualization)
 - [Recommendations](#recommendations)
 - [How to Use](#how-to-use)
 
