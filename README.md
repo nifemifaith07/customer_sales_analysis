@@ -85,3 +85,4 @@ The final interactive dashboard was created in Microsoft Excel using charts, sli
 - Download the dataset (or access it via Kaggle) in /data.
 - Open /dashboard/ to interact with the visual dashboard and charts.
 - Review insights and recommendations in this README.
+- Read report [here](https://medium.com/@RubyAce/marketing-insight-report-7041c828f2e8)
